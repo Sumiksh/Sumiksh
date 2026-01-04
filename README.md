@@ -37,6 +37,14 @@ I am a Canadian citizen and a Software Development student at Seneca Polytechnic
 
 ### 📂 Featured Projects
 
+#### [PillScheduler](https://github.com/Sumiksh/PillReminders.git)
+*A high-performance medication management platform built with **Next.js 15**, **Firebase**, and **Gemini 2.0 Flash AI**.*
+* **Robust Architecture:** Features secure **OAuth 2.0** authentication via Next-Auth and an interactive **Calendar System** for precise historical adherence tracking and dose persistence in **Firebase Firestore**.
+* **Intelligent Safety & Verification:** Leverages **Gemini 2.0 Flash** for visual pill identification (imprints/colors) and integrates **RxCUI-based lookups** via the **National Library of Medicine (NLM)** to fetch real-time clinical usage, side effects, and precautions.
+* **Optimized Performance:** Utilizes AI batch-processing and Next.js Server Actions to handle complex pharmaceutical data fetches with minimal latency.
+- **Stack:** Next.js, Firebase, Docker.
+
+
 #### [Fragments Application FE](https://github.com/Sumiksh/fragments-ui) | [Fragments Application BE](https://github.com/Sumiksh/fragments)
 *Full-stack application for managing text/image fragments using AWS (S3, Cognito, DynamoDB, EC2).*
 - **Stack:** Node.js, React, AWS, Docker, GitHub Actions.
