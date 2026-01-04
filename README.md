@@ -36,26 +36,23 @@ I am a Canadian citizen and a Software Development student at Seneca Polytechnic
 ---
 
 ### 📂 Featured Projects
-
 #### [PillScheduler](https://github.com/Sumiksh/PillReminders.git)
 *A high-performance medication management platform built with **Next.js 15**, **Firebase**, and **Gemini 2.0 Flash AI**.*
-* **Robust Architecture:** Features secure **OAuth 2.0** authentication via Next-Auth and an interactive **Calendar System** for precise historical adherence tracking and dose persistence in **Firebase Firestore**.
-* **Intelligent Safety & Verification:** Leverages **Gemini 2.0 Flash** for visual pill identification (imprints/colors) and integrates **RxCUI-based lookups** via the **National Library of Medicine (NLM)** to fetch real-time clinical usage, side effects, and precautions.
-* **Optimized Performance:** Utilizes AI batch-processing and Next.js Server Actions to handle complex pharmaceutical data fetches with minimal latency.
-- **Stack:** Next.js, Firebase, Docker.
+* **Intelligent Safety:** Leverages **Gemini 2.0 Flash** for visual pill identification and integrates **RxCUI-based lookups** via the NLM for real-time clinical data.
+* **Robust Architecture:** Features secure **OAuth 2.0** authentication and a Firebase Firestore-backed calendar system for adherence tracking.
 
+#### [Fragments Microservice](https://github.com/Sumiksh)
+*A containerized cloud ecosystem for multi-modal data management.*
+* **Cloud Architecture:** Built a Node.js/Express backend with **AWS Cognito** auth, **S3** storage, and **DynamoDB** persistence.
+* **DevOps:** Deployed on **AWS EC2** with **CI/CD automation** via GitHub Actions and high-coverage testing with **Jest**.
 
-#### [Fragments Application FE](https://github.com/Sumiksh/fragments-ui) | [Fragments Application BE](https://github.com/Sumiksh/fragments)
-*Full-stack application for managing text/image fragments using AWS (S3, Cognito, DynamoDB, EC2).*
-- **Stack:** Node.js, React, AWS, Docker, GitHub Actions.
+#### [Sports Motion Detection & Tracking](https://github.com/Sumiksh)
+*A video processing pipeline utilizing classical computer vision for athletic analysis.*
+* **Technical Implementation:** Uses **OpenCV** and **Python** to perform frame differencing and viewport tracking to detect moving objects in footage.
 
-#### [Sports Motion Detection & Tracking](https://github.com/Sumiksh/motion-detection)
-*Video processing pipeline for sports analysis using classical computer vision.*
-- **Stack:** Python, OpenCV.
-
-#### [Personal Web Portfolio](https://github.com/Sumiksh/sumikshtportfolio)
-*Modern, theme-aware portfolio with a custom chatbot UI.*
-- **Stack:** Next.js, Tailwind CSS, Shadcn/ui.
+#### [AI-Integrated Web Portfolio](https://github.com/Sumiksh)
+*A modern, performance-optimized portfolio built with **Next.js**, **Tailwind CSS**, and **shadcn/ui**.*
+* **Key Feature:** Integrated a custom **chatbot UI** for interactive, resume-related Q&A.
 
 ---
 
