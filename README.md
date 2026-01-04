@@ -37,7 +37,7 @@ I am a Canadian citizen and a Software Development student at Seneca Polytechnic
 
 ### 📂 Featured Projects
 
-#### [Fragments Application FE](https://github.com/Sumiksh/fragments-ui) | #### [Fragments Application BE](https://github.com/Sumiksh/fragments)
+#### [Fragments Application FE](https://github.com/Sumiksh/fragments-ui) | [Fragments Application BE](https://github.com/Sumiksh/fragments)
 *Full-stack application for managing text/image fragments using AWS (S3, Cognito, DynamoDB, EC2).*
 - **Stack:** Node.js, React, AWS, Docker, GitHub Actions.
 
