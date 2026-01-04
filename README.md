@@ -37,15 +37,16 @@ I am a Canadian citizen and a Software Development student at Seneca Polytechnic
 
 ### 📂 Featured Projects
 
-#### [Fragments Application](https://github.com/your-username/fragments-be)
+#### [Fragments Application FE](https://github.com/Sumiksh/fragments-ui)
+#### [Fragments Application BE](https://github.com/Sumiksh/fragments)
 *Full-stack application for managing text/image fragments using AWS (S3, Cognito, DynamoDB, EC2).*
 - **Stack:** Node.js, React, AWS, Docker, GitHub Actions.
 
-#### [Sports Motion Detection & Tracking](https://github.com/your-username/motion-detection)
+#### [Sports Motion Detection & Tracking](https://github.com/Sumiksh/motion-detection)
 *Video processing pipeline for sports analysis using classical computer vision.*
 - **Stack:** Python, OpenCV.
 
-#### [Personal Web Portfolio](https://github.com/your-username/portfolio)
+#### [Personal Web Portfolio](https://github.com/Sumiksh/sumikshtportfolio)
 *Modern, theme-aware portfolio with a custom chatbot UI.*
 - **Stack:** Next.js, Tailwind CSS, Shadcn/ui.
 
@@ -57,12 +58,12 @@ I am a Canadian citizen and a Software Development student at Seneca Polytechnic
 </p>
 
 - 🎓 **Education:** Honors B.Tech in Software Development (Candidate) | Seneca Polytechnic.
-- 📜 **Certs:** AWS Solutions Architect (In Progress)[cite: 67].
+- 📜 **Certs:** AWS Solutions Architect (In Progress).
 - 🏆 **GitHub Badges:** Pull Shark | Quickdraw (and growing!)
 
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **LinkedIn:** [linkedin.com/in/sumiksh-trehan](https://linkedin.com)
 - **Email:** tsumiksh@gmail.com 
-- **Portfolio:** [Your Vercel Link]
+- **Portfolio:** https://sumikshtportfolio.vercel.app/
