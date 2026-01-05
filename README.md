@@ -57,9 +57,7 @@ I am a Canadian citizen and a Software Development student at Seneca Polytechnic
 ---
 
 ### 📊 Stats & Achievements
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Sumiksh's Stats" />
-</p>
+![My Stats](./profile/stats.svg)
 
 - 🎓 **Education:** Honors B.Tech in Software Development (Candidate) | Seneca Polytechnic.
 - 📜 **Certs:** AWS Solutions Architect (In Progress).
