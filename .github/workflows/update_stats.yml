@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=Sumiksh&show_icons=true&theme=theme=tokyonight
+          options: username=Sumiksh&show_icons=true&theme=tokyonight
           path: profile/stats.svg
       - name: Generate Language Card
         uses: readme-tools/github-readme-stats-action@v1
