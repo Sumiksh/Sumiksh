@@ -15,8 +15,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=Sumiksh&show_icons=true&theme=radical
+          options: username=Sumiksh&show_icons=true&theme=theme=tokyonight
           path: profile/stats.svg
+      - name: Generate Language Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=Sumiksh&theme=radical&layout=compact
+          path: profile/langs.svg
       - name: Commit and Push
         run: |
           git config user.name "github-actions"

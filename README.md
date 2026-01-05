@@ -59,6 +59,9 @@ I am a Canadian citizen and a Software Development student at Seneca Polytechnic
 ### 📊 Stats & Achievements
 ![My Stats](./profile/stats.svg)
 
+### Languages
+![My Top Langs](./profile/langs.svg)
+
 - 🎓 **Education:** Honors B.Tech in Software Development (Candidate) | Seneca Polytechnic.
 - 📜 **Certs:** AWS Solutions Architect (In Progress).
 - 🏆 **GitHub Badges:** Pull Shark | Quickdraw (and growing!)
