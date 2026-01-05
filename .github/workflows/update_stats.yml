@@ -21,7 +21,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=Sumiksh&theme=radical&layout=compact
+          options: username=Sumiksh&theme=radical&layout=default
           path: profile/langs.svg
       - name: Commit and Push
         run: |
