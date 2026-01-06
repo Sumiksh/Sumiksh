@@ -1,4 +1,4 @@
-# Hi, I’m Sumiksh Trehan 👋 
+# 😎 Hi, I’m Sumiksh Trehan 👋 ✌️
 **Software Developer | Systems Engineer | Data Analyst**
 
 I am a Canadian citizen and a Software Development student at Seneca Polytechnic with a passion for building efficient, scalable applications and automating complex workflows. My experience ranges from mobile banking features at CIBC to large-scale government system testing and data engineering.
