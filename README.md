@@ -8,7 +8,7 @@ I am a Canadian citizen and a Software Development student at Seneca Polytechnic
 ### 🚀 Quick Highlights
 - 📱 **Mobile Dev:** Developed a pilot gamification feature for the CIBC Mobile Banking App using Kotlin.
 - 🏛 **Public Sector:** Served as a Subject Matter Expert for Ontario Government tax and dental programs.
-- 🤖 **Automation:** Built Python/Selenium scripts that saved 8+ hours of manual work per week.
+- 🤖 **Automation:** Built Python/Selenium scripts for auto download of documents that saved 8+ hours of manual work per week.
 - ☁️ **Cloud & Data:** Migrated legacy SSIS workflows to Python and Azure Cloud for better scalability.
 
 ---
